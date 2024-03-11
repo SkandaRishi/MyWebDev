@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Radio</title>
+  </head>
+  <body>
+    <form>
+      <div>
+        <input type="radio" id="lion" name="animal" value="lion"/>
+        <label for="lion">Lion</label>
+      </div>
+      <div>
+        <input type="radio" id="bear" name="animal" value="bear"/>
+        <label for="bear">Bear</label>
+      </div>
+      <div>
+        <input type="radio" id="cat" name="animal" value="cat"/>
+        <label for="cat">Cat</label>
+      </div>
+      <button type="submit">Submit</button>
+    </form>
+    <!--
+        always name all group element of radio box same
+        means if u want gender then name of both male and female is gender
+        and also u can see above i use name of all element as animal
+        if we don't do this than the main function of radio (single selection) won't work
+    -->
+  </body>
+</html>

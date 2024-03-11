@@ -1,0 +1,38 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url(peakpx.jpg);
+  background-size: cover;
+}
+#male {
+  display: inline-block;
+  background-image: url(male.jpg);
+  height: 300px;
+  width: 300px;
+  background-size: cover;
+  margin: 10px;
+  box-shadow: 2px 2px 10px black;
+  
+}
+#female {
+  display: inline-block;
+  background-image: url(female.jpg);
+  height: 300px;
+  width: 300px;
+  background-size: cover;
+  margin: 10px;
+  box-shadow: 2px 2px 10px black;
+
+
+}
+#male:hover {
+    height: 305px;
+    width: 305px;
+  box-shadow: 6px 6px 30px gold;
+}
+#female:hover {
+ height: 305px;
+ width: 305px;
+ box-shadow: 6px 6px 30px gold;
+}
+}

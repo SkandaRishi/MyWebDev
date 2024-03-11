@@ -1,0 +1,76 @@
+* {
+  background-color: bisque;
+}
+#p {
+  background-color: gold;
+  height: 500px;
+  width: 150px;
+  border: 2px solid black;
+}
+#a {
+  background-color: rgb(129, 107, 189);
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+  border: 4px darkgreen solid;
+  border-radius: 50%;
+}
+#b {
+  background-color: darkkhaki;
+  height: 70px;
+  width: 70px;
+  margin: 5px;
+  border: 4px maroon solid;
+  /*transition*/
+  transition: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+  transition-duration: 1s;
+  transition-delay: 0.5s;
+  /* transform- rotate*/
+  transform: rotate(90deg);
+  /* transform-scale*/
+  transform: scale(1.1);
+  /* transform-skew */
+  transform: skewX(70deg);
+}
+
+#c {
+  /* opactiy rgba sunn bee jb tu hover karega tb dekhna click button ke pass */
+  background-color: rgba(137, 248, 72, 0.692);
+
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+  border: 4px red solid;
+}
+button {
+  background-color: black;
+  color: red;
+  height: 30px;
+  width: 120px;
+
+  border-radius: 50%;
+  padding: 2px;
+  margin: 5px;
+
+  box-shadow: 5px 10px 3px purple;
+}
+#b:hover {
+  background-color: darkkhaki;
+  height: 70px;
+  width: 70px;
+  margin: 5px;
+  border: 4px maroon solid;
+  border-radius: 50%;
+  transform: none;
+}
+#c:hover {
+  transition-duration: 1s;
+  transition-delay: 0.5;
+  transition-timing-function: ease-in;
+  /*transform-translate*/
+  transform: translate(13px, 250px);
+}
+
+button:hover {
+  margin-top: 300px;
+}

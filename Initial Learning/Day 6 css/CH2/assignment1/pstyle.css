@@ -1,0 +1,53 @@
+/* task 1 */
+#mainTopic {
+  color: blue;
+}
+/* task 2 */
+* {
+  text-align: center;
+}
+/* task 3 */ 
+h1,h3,h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* task 4 */ 
+.para{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+/* task 5 */
+div>button{
+    background-color: purple;
+    color: azure;
+} 
+/* task 6 */ 
+div>button:hover{
+    background-color: yellow;
+    color: blue;
+}
+/* task 7 */
+.para:nth-of-type(2n+1){
+    color: yellow;
+}
+
+
+/* task 8 */
+h1::first-letter{
+    font-size: larger;
+    font-weight: bolder;
+    color: red;
+} 
+/* task 9 */ 
+input[id="yes"]:checked+ label{
+    color: green;
+}
+
+/* task 10 */
+
+/*
+h1
+.main
+div .main
+#maianCobntent
+*/

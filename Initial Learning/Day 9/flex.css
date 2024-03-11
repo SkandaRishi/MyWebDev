@@ -1,0 +1,28 @@
+#container{
+    background-color: azure;
+    height: 300px;
+    width: 80%;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    text-align: center;
+}
+#container div{
+    height: 100px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+#violet{
+    background-color: violet;
+}
+#indica{background-color: indigo;}
+#blue{background-color: blue;}
+#green{background-color: green;}
+#yellow{background-color: yellow;}
+#orange{background-color: orange;}
+#red{background-color: red;}
