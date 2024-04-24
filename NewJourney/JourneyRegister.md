@@ -11,7 +11,7 @@ After a break, I'm excited to restart my coding journey from scratch! This Markd
 
 ## Plan
 1. **Day 1**: Master HTML fundamentals.
-2. **Day 2**: 
+2. **Day 2**: Master HTML fundamentals. 
 3. **Day 3**: 
 4. **Day 4**: 
 
@@ -21,8 +21,8 @@ After a break, I'm excited to restart my coding journey from scratch! This Markd
 - Created a basic HTML page structure. 🖥️
 
 ### Day 2:
-- 
-- 
+- Revised previsous sessions
+- half completed html lvl 2 
 
 ### Day 3:
 - 
