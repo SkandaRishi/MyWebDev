@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="/action.php">
+      <!-- Name of the form control. Submitted with the form as part of a name/value pair. it helps in backend-->
+
+      <div>
+        <label for="username">Username: </label>
+        <input
+          type="text"
+          id="username"
+          placeholder="enter username"
+          name="username"
+        />
+      </div>
+      <div>
+        <label for="password">Password: </label
+        ><input
+          type="password"
+          id="password"
+          placeholder="enter password"
+          name="password"
+        />
+      </div>
+      <div>
+        <label for="age">Age: </label
+        ><input type="number" id="age" placeholder="00" />
+      </div>
+      <button type="submit">Submit</button>
+    </form>
+    <hr />
+    <form action="https://www.youtube.com/results">
+      <label for="search">Google Search: </label>
+      <input
+        type="text"
+        id="search"
+        placeholder="Search from google"
+        name="search_query"
+      />
+      <button type="submit">Search</button>
+    </form>
+  </body>
+</html>
