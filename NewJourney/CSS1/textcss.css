@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    text-decoration: dotted line-through;
+       
+}
+h3{
+    text-align: left;
+    text-decoration: underline;
+}
+h2{
+    font-weight: 900;
+    text-decoration: red double overline;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+/* learned about text align, font weight and text decoration, line height and letter spacing,font families */
