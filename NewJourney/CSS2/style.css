@@ -1,21 +1,50 @@
 /* universal selector */
-*{
-    font-family: 'Courier New', Courier, monospace;
- }
- /* div selector */
- h1,h3{
-    color: #b92b27;
- }
- 
- #login{
-    background-color: white;
- }
- /* id secector */
- #signup{
-    background-color: #b92b27;
-    color: white;
- }
- .upvote{
-    background-color: green;
-    color: yellow;
- }
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+/* div selector */
+h1,
+h3 {
+  color: #b92b27;
+}
+
+#login {
+  background-color: white;
+}
+/* id secector */
+#signup {
+  background-color: #b92b27;
+  color: white;
+}
+.upvote {
+  background-color: green;
+  color: yellow;
+}
+/* descendent selector */
+p a {
+  color: purple;
+  background-color: yellow;
+}
+.upvote + button {
+  background-color: blue;
+  color: white;
+}
+div > input {
+  background-color: darkgrey;
+}
+input[type="text"] {
+  color: red;
+}
+input[type="password"] {
+  color: green;
+}
+button:hover{
+  background-color: black;
+  color: white;
+}
+a:hover{
+  text-decoration: none;
+}
+button:active{
+  background-color: pink;
+}
