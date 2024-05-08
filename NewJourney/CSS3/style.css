@@ -1,0 +1,14 @@
+div {
+  height: 100%;
+  width: 50%;
+  border: solid black 5px;
+  margin: 2px;
+  border-left-color: burlywood;
+  border-right-color: goldenrod;
+}
+button {
+  color: yellow;
+  background-color: green;
+  border: 5px solid black;
+  padding: 2px 5px 2px 5px;
+}
