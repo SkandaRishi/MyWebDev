@@ -1,0 +1,37 @@
+#face {
+  height: 400px;
+  width: 400px;
+  background-color: #fcd300;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  border-radius: 50%;
+}
+#mouth {
+  height: 75px;
+  width: 200px;
+  background-color: brown;
+  position: absolute;
+  top: 250px;
+  left: 100px;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+#eyel {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+  border-radius: 50%;
+}
+#eyer {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  position: absolute;
+  top: 50px;
+  right: 40px;
+  border-radius: 50%;
+}
