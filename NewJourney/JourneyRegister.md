@@ -19,6 +19,15 @@ After a break, I'm excited to restart my coding journey from scratch! This Markd
 7. **Day 7**: Master HTML fundamentals.
 8. **Day 8**: Missed Learning.
 9. **Day 9**: Learning CSS Basics.
+10. **Day 10**: Revision.
+11. **Day 11**: Missed Learning.
+12. **Day 12**: Missed Learning.
+13. **Day 13**: Learning CSS Basics.
+14. **Day 14**: Learning CSS Basics.
+15. **Day 15**: Learning CSS Basics.
+16. **Day 16**: Learning CSS Basics.
+17. **Day 17**: Learning CSS Basics.
+
 
 ## Progress
 ### Day 1:
@@ -63,6 +72,45 @@ After a break, I'm excited to restart my coding journey from scratch! This Markd
 - Created a html page and included css
 - Dive into colors
 - 2 may 2024
+
+### Day 10:
+- Revised
+- 3 may 2024
+
+### Day 11:
+- missed
+- 4 may 2024
+
+### Day 12:
+- missed
+- 5 may 2024
+
+### Day 13:
+- CSS lvl 1 completed
+- Started CSS lvl 2
+- 6 may 2024
+
+### Day 14:
+- CSS lvl 2 completed
+- learnt id, class
+- knew about inheritance property, cascading & specificity
+- 7 may 2024
+
+### Day 15:
+- CSS lvl 3 completed
+- having eye on box model, height,width,border,padding margin
+- learnt new unit like em & rem
+- 8 may 2024
+
+### Day 16:
+- CSS lvl 4 started
+- learnt transition, transform, box shadow
+- 9 may 2024
+### Day 17:
+- CSS lvl 4 completed
+- knew about position
+- cleared assignments
+- 10 may 2024
 
 ## Challenges
 - Balancing learning with other commitments. ⚖️
