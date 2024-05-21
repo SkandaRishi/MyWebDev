@@ -27,6 +27,18 @@ After a break, I'm excited to restart my coding journey from scratch! This Markd
 15. **Day 15**: Learning CSS Basics.
 16. **Day 16**: Learning CSS Basics.
 17. **Day 17**: Learning CSS Basics.
+18. **Day 18**: Learning CSS Basics.
+19. **Day 19**: Missed Learning.
+20. **Day 20**: Missed Learning.
+21. **Day 21**: Missed Learning.
+22. **Day 22**: Missed Learning.
+23. **Day 23**: Missed Learning.
+24. **Day 24**: Missed Learning.
+25. **Day 25**: Missed Learning.
+26. **Day 26**: Missed Learning.
+27. **Day 27**: Missed Learning.
+28. **Day 28**:
+
 
 
 ## Progress
@@ -106,11 +118,53 @@ After a break, I'm excited to restart my coding journey from scratch! This Markd
 - CSS lvl 4 started
 - learnt transition, transform, box shadow
 - 9 may 2024
+
 ### Day 17:
 - CSS lvl 4 completed
 - knew about position
 - cleared assignments
 - 10 may 2024
+
+### Day 18:
+- Flexbox
+- 11 may 2024
+
+### Day 19:
+- break for exam
+- 12 may 2024
+
+### Day 20:
+- break for exam
+- 13 may 2024
+
+### Day 21:
+- break for exam
+- 14 may 2024
+
+### Day 22:
+- break for exam
+- 15 may 2024
+
+### Day 23:
+- break for exam
+- 16 may 2024
+
+### Day 24:
+- break for exam
+- 17 may 2024
+
+### Day 25:
+- break for exam
+- 18 may 2024
+
+### Day 26:
+- break for exam
+- 19 may 2024
+
+### Day 27:
+- 20 may 2024
+
+
 
 ## Challenges
 - Balancing learning with other commitments. ⚖️
